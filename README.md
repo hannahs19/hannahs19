@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+# 👋 Hi, I'm Hanna
+![Preview](./assets/preview.gif)
 I’m a Fresh Graduate Informatics Engineering Student from Universitas Trilogi.<br>I’m passionate about building modern, responsive, and user-friendly web applications. While I aim to become a Full-Stack Developer, I’m more interested in crafting engaging and intuitive Frontend experiences.<br><br>📍 Location<br><br>Jakarta, Indonesia<br><br><br>🔭 Currently working on: Building web apps with Laravel & Tailwind CSS<br>🌱 Learning: React.js and Next.js to strengthen frontend skills<br>💡 Passionate about: Building responsive, interactive, and user-friendly web interfaces<br>🎯 Goal: Becoming a Full-Stack Developer with strong frontend expertise
 
 
