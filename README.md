@@ -1,9 +1,6 @@
-## I’m a Fresh Graduate Informatics Engineering Student from Universitas Trilogi, Jakarta, Indonesia 🇮🇩. I’m passionate about building modern, responsive, and user-friendly web applications. While I aim to become a Full-Stack Developer, I’m more interested in crafting engaging and intuitive Frontend experiences.
+# 💫 About Me:
+I’m a Fresh Graduate Informatics Engineering Student from Universitas Trilogi.<br>I’m passionate about building modern, responsive, and user-friendly web applications. While I aim to become a Full-Stack Developer, I’m more interested in crafting engaging and intuitive Frontend experiences.<br><br>📍 Location<br><br>Jakarta, Indonesia<br><br><br>🔭 Currently working on: Building web apps with Laravel & Tailwind CSS<br>🌱 Learning: React.js and Next.js to strengthen frontend skills<br>💡 Passionate about: Building responsive, interactive, and user-friendly web interfaces<br>🎯 Goal: Becoming a Full-Stack Developer with strong frontend expertise
 
-🔭 Currently working on: Building web apps with Laravel & Tailwind CSS
-🌱 Learning: React.js and Next.js to strengthen frontend skills
-💡 Passionate about: Building responsive, interactive, and user-friendly web interfaces
-🎯 Goal: Becoming a Full-Stack Developer with strong frontend expertise
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hanna-halimatu-sadiah-8612b5261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannahalimatu.s19@gmail.com) 
